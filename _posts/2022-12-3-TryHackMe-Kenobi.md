@@ -3,7 +3,7 @@ title: TryHackMe - Kenobi
 cover:
     image: "images/kenobi-tryhackme/kenobi.png"
 categories: [Linux]
-tags: [TryHackMe Writeups, eJPT]
+tags: [TryHackMe, eJPT, Linux]
 ---
 
 

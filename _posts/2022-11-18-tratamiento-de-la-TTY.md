@@ -3,7 +3,7 @@ title: Tratamiento de la TTY
 cover:
     image: "images/Otros/tratamiento-de-la-tty/foto-portada.jpg"
 categories: [Linux, Config, TTY]
-tags: [Linux, TTY]
+tags: [Linux]
 ---
 
 Bienvenido a mi primer post, en el cual voy a enseñar a como hacer un buen tratamiento de la TTY. **^^**

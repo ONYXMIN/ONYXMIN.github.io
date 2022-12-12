@@ -3,7 +3,7 @@ title: TryHackMe - RootMe
 cover:
     image: "images/rootme-tryhackme/rootme.png"
 categories: [Linux]
-tags: [TryHackMe Writeups, eJPT]
+tags: [TryHackMe, eJPT, Linux]
 ---
 
 ***En este post voy a explicar paso por paso como hacer la máquina [RootMe](https://tryhackme.com/room/rrootme) de TryHackMe.***

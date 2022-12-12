@@ -3,7 +3,7 @@ title: TryHackMe - Vulnversity
 cover:
     image: "images/vulnversity-tryhackme/vulnversity.png"
 categories: [Linux]
-tags: [TryHackMe Writeups, eJPT]
+tags: [TryHackMe, eJPT, Linux]
 ---
 
 Learn about active recon, web app attacks and privilege escalation.

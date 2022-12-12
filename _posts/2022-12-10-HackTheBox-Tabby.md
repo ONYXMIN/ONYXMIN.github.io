@@ -1,12 +1,12 @@
 ---
 title: HackTheBox - Tabby
 categories: [Linux]
-tags: [HackTheBox Writeups, eJPT]
+tags: [HackTheBox, eJPT, Linux]
 ---
 
 <img src="/assets/HTB/Tabby/tabby.png">
 
-En este post voy a explicar como resolver la máquina Tabby de [Hack The Box](https://app.hackthebox.com/machines/259)
+En este post voy a explicar como resolver la máquina Tabby de [Hack The Box](https://app.hackthebox.com/machines/259), en la cual vamos a estar tocando un LFI para obtener credenciales y así poder subir un archivo malicioso y para la escalada vamos a estar abusando de una vulnerabilidad del grupo ```lxd```.
 
 ## Escaneo de puertos
 

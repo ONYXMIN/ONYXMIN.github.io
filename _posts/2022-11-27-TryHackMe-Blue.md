@@ -5,7 +5,7 @@ excerpt: "Máquina Blue de la plataforma TryHackMe"
 cover:
     image: "images/blue-tryhackme/blue.jpeg"
 categories: [Windows]
-tags: [TryHackMe Writeups, eJPT]
+tags: [TryHackMe, eJPT, Windows]
 ---
 
 

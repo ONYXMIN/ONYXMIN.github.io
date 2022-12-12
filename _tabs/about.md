@@ -20,5 +20,5 @@ order: 4
 
 ### 👨‍💻 About Me :
 
-- 💬 I know Python, BASH and a little bit of Go.
+- 💬 I know Python and BASH.
 

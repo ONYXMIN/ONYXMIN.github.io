@@ -1,7 +1,7 @@
 ---
 title: HackTheBox - Tabby
 categories: [Linux]
-tags: [HackTheBox, eJPT, Linux]
+tags: [HackTheBox]
 ---
 
 <img src="/assets/HTB/Tabby/tabby.png">

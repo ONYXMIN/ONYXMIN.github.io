@@ -1,7 +1,7 @@
 ---
 title: HackTheBox - Granny
 categories: [Windows]
-tags: [HackTheBox, eJPT, Windows]
+tags: [HackTheBox]
 ---
 
 <img src="/assets/HTB/Granny/granny.png">

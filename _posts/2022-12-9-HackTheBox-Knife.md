@@ -1,7 +1,7 @@
 ---
 title: HackTheBox - Knife
 categories: [Linux]
-tags: [HackTheBox, eJPT, Linux]
+tags: [HackTheBox]
 ---
 
 <img src="/assets/HTB/Knife/knife.png">

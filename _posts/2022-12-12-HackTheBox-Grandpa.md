@@ -1,7 +1,7 @@
 ---
 title: HackTheBox - Grandpa
 categories: [Windows]
-tags: [HackTheBox, eJPT, Windows]
+tags: [HackTheBox]
 ---
 
 <img src="/assets/HTB/Grandpa/grandpa.png">

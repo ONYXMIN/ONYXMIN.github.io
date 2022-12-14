@@ -6,7 +6,7 @@ tags: [HackTheBox]
 
 <img src="/assets/HTB/Undetected/undetected.png">
 
-En este post voy a explicar como resolver la máquina Undetected de [Hack The Box](https://app.hackthebox.com/machines/Undetected)
+En este post voy a explicar como resolver la máquina Undetected de [Hack The Box](https://app.hackthebox.com/machines/Undetected), en la cual vamos a estar ganando acceso al sistema mediante un Remote Code Execution, y para la escalada tendremos que analizar un binario haciendo uso de ghidra para descifrar la contraseña de root.
 
 ## Escaneo de puertos
 
@@ -401,6 +401,8 @@ int auth_password(sshssh,char password)
   __stack_chk_fail();
 }
 ```
+
+# Escalada de privilegios
 
 Si analizamos la función podemos deducir que la contraseña es una strings de 31 caracteres, la cual está en hexadecimal, si la organizamos nos quedaría así.
 
